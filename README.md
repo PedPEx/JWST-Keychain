@@ -1,19 +1,18 @@
 # JWST-Keychain
 Keychain V3 front- and backside pictures
 
-<img src="pictures/v3_1.jpg" alt="Keychain V3 front" height="300"/>
-<img src="pictures/v3_4.jpg" alt="Keychain V3 back " height="300"/>
+<img src="pictures/v3_1.jpg" alt="Keychain V3 front" height="300"/> <img src="pictures/v3_4.jpg" alt="Keychain V3 back " height="300"/>
 
 ## James Webb Telescope Keychain
-
 All you need to know about the JWST Mirror Keychain
+
 Don't forget to add your contact information to the NFC chip in case you lose your keys
 
 ## Features of the Keychain
-- pretty small and nerdy keychain
+- pretty small and nerdy keychain (V3: 37 x 40 mm)
 - looks like the JWST mirror assembly
-- on the backside of the keychain is a NFC symbol - in order for your potential finder of your keys knows, that he can scan it with his mobile phone to get your contact data
-- on the backside of the keychain you can also find the constellations of the Big Dipper and the Small Dipper too
+- on the backside of the keychain is a NFC symbol - to ensure that the finder of your keychain recognizes that they can scan the tag and thus get your contact information.
+- on the backside of the keychain are also the constellations of the Big Dipper and the Small Dipper
 - NFC tag inside
 
 ## Used Components
