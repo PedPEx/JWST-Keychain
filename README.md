@@ -11,8 +11,9 @@ Don't forget to add your contact information to the NFC chip in case you lose yo
 
 ## Features of the Keychain
 - pretty small and nerdy keychain
-- on the backside of the keychain is a NFC symbol - that the potential finder of your keys knows, that he can scan it with his mobile phone to get your contact data
-- on the backside of the keychain you can also find the constelletions of the Big Dipper and the Small Dipper too (in the latest version i just changed them over to Cassiopeia and Canis Major, because of Sirius)
+- looks like the JWST mirror assembly
+- on the backside of the keychain is a NFC symbol - in order for your potential finder of your keys knows, that he can scan it with his mobile phone to get your contact data
+- on the backside of the keychain you can also find the constellations of the Big Dipper and the Small Dipper too
 - NFC tag inside
 
 ## Used Components
