@@ -1,8 +1,7 @@
 # JWST-Keychain
 Keychain V3 front- and backside pictures
 
-<img src="pictures/v3_1.jpg" alt="Keychain V3 front" height="300"/>
-<img src="pictures/v3_4.jpg" alt="Keychain V3 back " height="300"/>
+<img src="pictures/v3_1.jpg" alt="Keychain V3 front" height="300"/> <img src="pictures/v3_4.jpg" alt="Keychain V3 back " height="300"/>
 
 ## James Webb Telescope Keychain
 
